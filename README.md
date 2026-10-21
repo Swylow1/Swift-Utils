@@ -1,4 +1,4 @@
-# Swift-Utils
+<img width="932" height="584" alt="image" src="https://github.com/user-attachments/assets/9465d40a-3c65-4c4f-9150-f769ed5ba8f3" /># Swift-Utils
 All-in-one client PvP mod: health indicators, target HUD, dropped item scaler, freelook, item lock with profiles and a coords announcer.
 
 # Features
@@ -14,3 +14,22 @@ All-in-one client PvP mod: health indicators, target HUD, dropped item scaler, f
 - Customizable settings-screen appearance, including accent colors, gradients, background, and UI size.
 - Import and export for locked-item lists.
 # Gallery
+<img width="1920" height="1009" alt="2026-10-21_16 10 50" src="https://github.com/user-attachments/assets/b7b7a368-72d2-47b3-9452-88660781a39d" />
+<img width="1920" height="1009" alt="2026-10-21_16 10 47" src="https://github.com/user-attachments/assets/33b44c00-cce6-4b62-b742-bff134d3baba" />
+<img width="1920" height="1009" alt="2026-10-21_16 10 52" src="https://github.com/user-attachments/assets/a9f3aaa3-c8e6-4272-b286-83c46a138edc" />
+<img width="1920" height="1009" alt="2026-10-21_16 10 54" src="https://github.com/user-attachments/assets/f2149f14-b585-486a-a1e6-b13d65acb262" />
+<img width="1920" height="1009" alt="2026-10-21_16 10 56" src="https://github.com/user-attachments/assets/8ca19157-2bee-49f7-b3be-64816845e42a" />
+<img width="1920" height="1009" alt="2026-10-21_16 10 58" src="https://github.com/user-attachments/assets/715714f3-0843-42df-89ba-4adbf72eabc0" />
+<img width="1920" height="1009" alt="2026-10-21_16 11 00" src="https://github.com/user-attachments/assets/be1de537-7dd4-4962-8deb-3e7b00aaad04" />
+<img width="1920" height="1009" alt="2026-10-21_16 11 03" src="https://github.com/user-attachments/assets/c3ea0651-b3fc-4b72-9001-ba77fdfd097b" />
+
+
+
+
+
+
+
+
+
+
+
