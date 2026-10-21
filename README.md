@@ -1,4 +1,3 @@
-<img width="932" height="584" alt="image" src="https://github.com/user-attachments/assets/9465d40a-3c65-4c4f-9150-f769ed5ba8f3" /># Swift-Utils
 All-in-one client PvP mod: health indicators, target HUD, dropped item scaler, freelook, item lock with profiles and a coords announcer.
 
 # Features
