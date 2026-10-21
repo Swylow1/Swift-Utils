@@ -12,6 +12,9 @@ All-in-one client PvP mod: health indicators, target HUD, dropped item scaler, f
 - In-game settings with searchable options, keybind controls, and a draggable HUD editor.
 - Customizable settings-screen appearance, including accent colors, gradients, background, and UI size.
 - Import and export for locked-item lists.
+
+- Have you found a bug or have any suggestions? 
+Use "Github Issues": [Report a bug or suggest here](https://github.com/Swylow1/Swift-Utils/issues/new)
 # Gallery
 <img width="1920" height="1009" alt="2026-10-21_16 10 50" src="https://github.com/user-attachments/assets/b7b7a368-72d2-47b3-9452-88660781a39d" />
 <img width="1920" height="1009" alt="2026-10-21_16 10 47" src="https://github.com/user-attachments/assets/33b44c00-cce6-4b62-b742-bff134d3baba" />
