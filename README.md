@@ -9,6 +9,7 @@ All-in-one client PvP mod: health indicators, target HUD, dropped item scaler, f
 - Freelook that lets you move the camera independently, with configurable view mode, sensitivity, and pitch inversion.
 - One-key coordinate sharing, with a customizable message format and clipboard option.
 - Optional third-person crosshair.
+- View and customize keybinds on a full visual keyboard. Choose a keyboard language layout to match your preferred language.
 - In-game settings with searchable options, keybind controls, and a draggable HUD editor.
 - Customizable settings-screen appearance, including accent colors, gradients, background, and UI size.
 - Import and export for locked-item lists.
