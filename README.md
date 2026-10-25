@@ -24,7 +24,7 @@ Use "Github Issues": [Report a bug or suggest here](https://github.com/Swylow1/S
 <img width="1920" height="1009" alt="2026-10-21_16 10 58" src="https://github.com/user-attachments/assets/715714f3-0843-42df-89ba-4adbf72eabc0" />
 <img width="1920" height="1009" alt="2026-10-21_16 11 00" src="https://github.com/user-attachments/assets/be1de537-7dd4-4962-8deb-3e7b00aaad04" />
 <img width="1920" height="1009" alt="2026-10-21_16 11 03" src="https://github.com/user-attachments/assets/c3ea0651-b3fc-4b72-9001-ba77fdfd097b" />
-<img width="960" height="479" alt="image" src="https://github.com/user-attachments/assets/02b66375-f4c1-45b9-b64a-6e80bb044c92" />
+<img width="1920" height="974" alt="image" src="https://github.com/user-attachments/assets/ed8ea2f8-1065-4cad-a962-3593c1f7036e" />
 
 
 
